@@ -1,0 +1,16 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "NodeJS app which simulates products and overview list. I was using core NodeJS modules(fs,http,url)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "crypt0",
+  "license": "ISC,MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.11",
+    "slugify": "^1.3.6"
+  }
+}
